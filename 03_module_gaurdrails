@@ -1,0 +1,6 @@
+Module 3: Guardrails
+
+Flag missing/empty sections.
+Flag sections <50 words.
+Apply hallucination mitigation (summarize only provided text).
+Apply long-paper chunking strategies (split into manageable chunks if > context window).
