@@ -7,8 +7,6 @@ Summarize in ≤100 words.
 Preserve order.
 Apply constraints.
 
-variable = `summary_level`
-
 if `summary_level = "short"`
    >   
    >   * 1–2 sentence summary per section
