@@ -5,6 +5,8 @@ Flag sections <50 words.
 Apply hallucination mitigation (summarize only provided text).
 Apply long-paper chunking strategies (split into manageable chunks if > context window).
 
+variable = 'evidence_mode'
+
 if `evidence_mode = "strict"
 
 * Only include claims, equations, and results that appear in the provided text.
